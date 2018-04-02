@@ -1,0 +1,23 @@
+{
+  "name": "react-daily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^16.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcj-space/React-Daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lcj-space/React-Daily/issues"
+  },
+  "homepage": "https://github.com/Lcj-space/React-Daily#readme"
+}

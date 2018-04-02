@@ -1,0 +1,29 @@
+.breadcrumbContainer {
+  li {
+    a {
+      max-width: 90px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+  .ellipsis {
+    width: auto;
+  }
+  .separator {
+    width: 18px;
+    color: #3e4e59;
+    text-align: center;
+  }
+  .breadcrumbItem {
+    vertical-align: top;
+  }
+  li:last-child {
+    .separator {
+      display: none;
+    }
+    .breadcrumbItem {
+      color: #3e4e59;
+    }
+  }
+}
