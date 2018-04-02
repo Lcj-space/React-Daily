@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "classnames": "^2.2.5",
     "react": "^16.3.0"
   },
   "scripts": {
