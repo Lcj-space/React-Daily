@@ -1,0 +1,8 @@
+node_modules
+.repo/
+.vscode/
+yarn.lock
+package-lock.json
+packages/
+public/lib/
+www/

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "swiper": "^4.5.0"
+  },
   "devDependencies": {
     "classnames": "^2.2.5",
     "react": "^16.3.0"
